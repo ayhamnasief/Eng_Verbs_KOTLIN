@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sentence">
+        <item>He has abandoned his little cat</item>
+        <item>She is good at absorbing information</item>
+        <item>You can accelerate your progress on the SAT prep by signing up for tutoring.</item>
+        <item>I accept your invitation.</item>
+        <item>Would you like me to accompany you on your trip</item>
+        <item>She was able to accomplish her dream of becoming a doctor</item>
+        <item>She accused him of stealing her phone.</item>
+        <item>He achieved his dream of becoming a doctor.</item>
+        <item>She acknowledged her mistake.</item>
+        <item>He acquired a new car.</item>
+        <item>I do not know why she is acting strange</item>
+        <item>He adapted to the new job quickly.</item>
+        <item>She added sugar to her tea.</item>
+        <item>He adjusted his tie before the interview.</item>
+        <item>The doctor administered several tests.</item>
+        <item>She admired his courage.</item>
+        <item>He admitted to stealing the money.</item>
+        <item>She adopted a stray cat.</item>
+        <item>He adored his wife.</item>
+        <item>The lawyer advised me not to say anything</item>
+        <item>She advised him to take a break.</item>
+        <item>They could not afford to buy a new car.</item>
+        <item>They agreed to meet at the park.</item>
+        <item>He aimed the gun at the target.</item>
+        <item>She allowed him to stay out late.</item>
+        <item>My co-worker analyzes tons of data every day.</item>
+        <item>They announced their engagement.</item>
+        <item>Unfortunately i cannot answer all of your questions</item>
+        <item>He anticipated the arrival of his guests.</item>
+        <item> i apologize if I asked too many questions</item>
+        <item>He apologized for being late.</item>
+        <item>The sun appeared from behind the clouds.</item>
+        <item>The audience stood and applauded her performance</item>
+        <item>She applied for the job.</item>
+        <item>The mayor will appoint a new fire chief in the coming weeks.</item>
+        <item>He appreciated her help.</item>
+        <item>She approached the door cautiously.</item>
+        <item>They approved the budget proposal.</item>
+        <item>They argued about politics.</item>
+        <item>A problem arose during the project.</item>
+        <item>She arranged the flowers in a vase.</item>
+        <item>She was arrested by the police last year</item>
+        <item>They arrived at the airport early.</item>
+        <item>He asked her for her phone number.</item>
+        <item>The Avengers and their friends assembled for one last battle against Thanos.</item>
+        <item>He assumed she was coming to the party.</item>
+        <item>He assured her that everything would be alright.</item>
+        <item>He astonished everyone with his magic tricks.</item>
+        <item>She attached the document to the email.</item>
+        <item>The dog tried to attack the cat but failed to</item>
+        <item>He attempted to climb the mountain.</item>
+        <item>She attends church every Sunday.</item>
+        <item>The colorful flowers attracted the butterflies.</item>
+        <item>She avoided the topic of politics.</item>
+        <item>He awoke to the sound of his alarm.</item>
+        <item>I need to bake a cake for the party.</item>
+        <item>She balanced carefully on the beam at the start of her routine.</item>
+        <item>I like to bathe in the morning.</item>
+        <item>It’s important to be kind to others.</item>
+        <item>I can’t bear the thought of losing you.</item>
+        <item>The drummer will beat the drums all night long.</item>
+        <item>She wants to become a doctor someday.</item>
+        <item>I have been open-minded about my next job opportunity.</item>
+        <item>He had to beg for forgiveness after his mistake.</item>
+        <item>Let’s begin the meeting with an introduction.</item>
+        <item>He needs to behave himself when he’s in public.</item>
+        <item>He is being stubborn.</item>
+        <item>I believe in the power of hard work.</item>
+        <item>You can not just believe anything you read on the internet</item>
+        <item>These books belong to the library.</item>
+        <item>He needs to bend his knees when he lifts weights.</item>
+        <item>I bet he can’t solve that math problem.</item>
+        <item>We need to bind these papers together.</item>
+        <item>The dog will bite if it feels threatened.</item>
+        <item>These plants bloom in spring</item>
+        <item>Flowers usually start to blossom when it is warm</item>
+        <item>The wind will blow the leaves away.</item>
+        <item>I always blush when i speak in public</item>
+        <item>I started looking for my seat after boarding the plane</item>
+        <item>Please boil the water before making tea.</item>
+        <item>Can I borrow your pen for a minute?</item>
+        <item>The ball will bounce if you throw it on the ground.</item>
+        <item>The violinist will bow at the end of the performance.</item>
+        <item>Don’t break that vase, it’s valuable.</item>
+        <item>I often have trouble breathing</item>
+        <item>She plans to breed her dogs next year.</item>
+        <item>Could you bring me some water, please?</item>
+        <item>The radio station will broadcast the news every hour.</item>
+        <item>Always brush your teeth before going to sleep</item>
+        <item>We budgeted for a new couch this month.</item>
+        <item>They will build a new hospital in the city.</item>
+        <item>The candle will burn brightly in the dark.</item>
+        <item>The balloon will burst if you blow it up too much.</item>
+        <item>He buried the money in the backyard</item>
+        <item>I need to buy some groceries at the store.</item>
+        <item>She calculated the total cost of the trip.</item>
+        <item>My old friend called me and apologized</item>
+        <item>We can run the 5K and then go to the picnic.</item>
+        <item>To be able to do something</item>
+        <item>She cares deeply about the environment.</item>
+        <item>He carried the heavy box upstairs.</item>
+        <item>She caught the ball with one hand.</item>
+        <item>He has caused me a lot of trouble lately</item>
+        <item>The company has ceased production</item>
+        <item>They celebrated their anniversary with a party.</item>
+        <item>I challenge you to complete this game</item>
+        <item>She changed her hairstyle for the wedding.</item>
+        <item>The police chased the suspect for two hours</item>
+        <item>We chat every night before we go to sleep</item>
+        <item>My neighbor will check my mail when I go on vacation.</item>
+        <item>Do not chew too loudly it is inappropriate</item>
+        <item>He almost choked while eating peanuts</item>
+        <item>He chose the red shirt over the blue one.</item>
+        <item>She chopped the vegetables for the soup.</item>
+        <item>He claimed to have witnessed the accident.</item>
+        <item>Did you clean your room before eating</item>
+        <item>Do not click on that link it looks suspicious</item>
+        <item>They climbed to the top of the mountain.</item>
+        <item>The child clung to her mother’s hand.</item>
+        <item>Please close the window it is too cold</item>
+        <item>In order to collaborate on this project, our team met twice a week.</item>
+        <item>Collect all the newspapers and throw them away</item>
+        <item>The vehicle collided with a big truck</item>
+        <item>She colored her hair recently</item>
+        <item>She came to the party with her friends.</item>
+        <item>The author refused to comment on the issue</item>
+        <item>She committed to finishing the project on time.</item>
+        <item>They communicated through email and phone calls.</item>
+        <item>She compared prices at several different stores.</item>
+        <item>He competed in the race and finished in first place.</item>
+        <item>He complained about the quality of the food.</item>
+        <item>She completed the project ahead of schedule.</item>
+        <item>She complimented her friend’s outfit, saying it looked great</item>
+        <item>I can not concentrate</item>
+        <item>The safety of our employees concerns us greatly.</item>
+        <item>Before i conclude i would like to thank you for coming</item>
+        <item>I confessed to my teacher that i lied</item>
+        <item>The test results confirmed her diagnosis.</item>
+        <item>The teacher confiscated the students toy</item>
+        <item>People often confuse me and my twin sister</item>
+        <item>I would like to congratulate you on your new job</item>
+        <item>Social media helps people connect with each other</item>
+        <item>She must conquer her fear of driving </item>
+        <item>He consented to let her borrow his car.</item>
+        <item>She considered all the options before making a decision.</item>
+        <item>The salad consisted of lettuce, tomatoes, and onions.</item>
+        <item>No one could console her when her husband died</item>
+        <item>Have they begun constructing the new building</item>
+        <item>He consulted with his lawyer before signing the contract.</item>
+        <item>The box contained a valuable collection of jewelry.</item>
+        <item>This new discovery will contribute to all humanity</item>
+        <item>She continued to work on her project late into the night.</item>
+        <item>Sometimes she can not control her feelings</item>
+        <item>He convinced her to come to the party with him.</item>
+        <item>She cooked a delicious meal for her family.</item>
+        <item>My co-workers are unwilling to cooperate </item>
+        <item>You have to coordinate the food, music, and guest list for the upcoming event.</item>
+        <item>Stop copying your sister homework</item>
+        <item>The new car cost more than she had expected.</item>
+        <item>He keeps coughing because of smoking</item>
+        <item>I could volunteer for the food drive again, or try something different.</item>
+        <item>She counted the money in her wallet.</item>
+        <item>Could you please cover the table with a cloth</item>
+        <item>He crashed his father car</item>
+        <item>I crave chocolate after every meal</item>
+        <item>The baby crawled across the room.</item>
+        <item>She created a beautiful painting.</item>
+        <item>The cat crept up on the bird.</item>
+        <item>He criticized her performance in the play.</item>
+        <item>Do not cross the street without looking both ways</item>
+        <item>Crush yes the football team crushed their opponents</item>
+        <item>She cried when she heard the news.</item>
+        <item>He was cured of the disease</item>
+        <item>She cut the cake into small pieces.</item>
+        <item>She cycled to work every day</item>
+        <item>The fire damaged half of the city</item>
+        <item>Let’s dance at the party.</item>
+        <item>I dare you to try the spicy food.</item>
+        <item>We need to deal with this problem.</item>
+        <item>I am excited to watch the presidential candidates debate each other in the primaries.</item>
+        <item>I decided to go on vacation.</item>
+        <item>She helped him decorate his new apartment</item>
+        <item>The country population began to decrease</item>
+        <item>He dedicates himself to his job</item>
+        <item>Are you prepared to defend your thesis?</item>
+        <item>Let’s defer the meeting until next week.</item>
+        <item>The train was delayed by the snowstorm.</item>
+        <item>Delete if do not delete the file if you did not make a copy</item>
+        <item>The mail carrier delivered my package.</item>
+        <item>The protesters demanded justice.</item>
+        <item>The white house denied the rumors</item>
+        <item>He denied any involvement in the crime.</item>
+        <item>Our plans depend on the weather.</item>
+        <item>Can you describe what happened?</item>
+        <item>She deserves a promotion for her work.</item>
+        <item>I desire a cup of coffee in the morning.</item>
+        <item>The hurricane destroyed the town.</item>
+        <item>The people can help the police detect crime</item>
+        <item>The judge will determine the verdict.</item>
+        <item>The company is developing new products.</item>
+        <item>I did remember to buy a new toothbrush, but left toothpaste off my shipping list.</item>
+        <item>She died soon after giving birth to her baby</item>
+        <item>We differ on our opinions about politics.</item>
+        <item>The crazy dog keeps digging holes in the back yard</item>
+        <item>We need some time to digest the bad news</item>
+        <item>I like to dip my chips in cheese</item>
+        <item>I disagree with your assessment.</item>
+        <item>The magician disappeared without a trace</item>
+        <item>The scientist discovered a new species.</item>
+        <item>Let’s discuss the plan at the meeting.</item>
+        <item>I dislike mushrooms in my pizza.</item>
+        <item>Soldiers must never disobey their officers</item>
+        <item>The charity will distribute food to the needy.</item>
+        <item>Please do not disturb me while i am working</item>
+        <item>He decided to dive into the pool.</item>
+        <item>Divide the cake with your brother</item>
+        <item>Please do your homework before class.</item>
+        <item>My brother does know the Netflix password, he just will not tell me what it is.</item>
+        <item>Would you consider donating to our charity</item>
+        <item>I doubt we will finish on time.</item>
+        <item>You can download many free softwares from the internet</item>
+        <item>He had to drag his suitcase up the stairs.</item>
+        <item>Could you draw a picture of me</item>
+        <item>Last night, I dreamed about flying through the clouds</item>
+        <item>The dentist will drill my tooth.</item>
+        <item>I always drink water with my meals.</item>
+        <item>She will drive us to the airport.</item>
+        <item>He dropped his keys on the floor.</item>
+        <item>Can you dry the dishes with a towel?</item>
+        <item>She died her hair blonde</item>
+        <item>She earned a promotion by working hard.</item>
+        <item>I will eat pizza for dinner tonight.</item>
+        <item>They educated the young on the dangers of drugs </item>
+        <item>The speaker emphasized the importance of education.</item>
+        <item>We only employ friendly and professional staff</item>
+        <item>The mentor empowered her student to pursue their dreams</item>
+        <item>The new technology enabled faster communication.</item>
+        <item>His parents encouraged him to follow his dreams.</item>
+        <item>He endangered their lives by driving too fast</item>
+        <item>She engaged in a conversation with her coworkers.</item>
+        <item>The new software will enhance our productivity.</item>
+        <item>I enjoy reading books in my spare time.</item>
+        <item>The lock on the door ensures our safety.</item>
+        <item>Buying a new car entails spending a lot of money.</item>
+        <item>She entered the room quietly so as not to disturb anyone.</item>
+        <item>He envies people who live better than him</item>
+        <item>Did you erase my number from your phone</item>
+        <item>They were able to escape the building before it collapsed</item>
+        <item>The company was established in 1995.</item>
+        <item>Keep cooking until most of the liquid has evaporated</item>
+        <item>I failed the final exam because i was sick and could not study</item>
+        <item>The doctor examined the patient thoroughly.</item>
+        <item>They exchanged addresses and said goodbye </item>
+        <item>She exclaimed she will never allow her kids to study abroad</item>
+        <item>They were excluded from the meeting</item>
+        <item>Does extraterrestrial life exist in the universe?</item>
+        <item>Many scientists believe that life exists on other planets</item>
+        <item>The company plans to expand its business overseas.</item>
+        <item>I expect to hear back from the job interview soon.</item>
+        <item>She wanted to experiment with a new recipe for dinner.</item>
+        <item>Can you explain how to solve this math problem?</item>
+        <item>We decided to explore the city on foot.</item>
+        <item>I can express myself in english pretty well</item>
+        <item>He extended his arm to reach the book on the top shelf.</item>
+        <item>She failed her driving test.</item>
+        <item>The leaves fall from the trees in autumn.</item>
+        <item>The mother bird feeds her chicks.</item>
+        <item>She feels happy after a good workout.</item>
+        <item>Please fetch me my glasses i can not see anything</item>
+        <item>The two brothers used to fight over toys when they were younger.</item>
+        <item>I forgot to fill up my bottle with water</item>
+        <item>I was able to find my keys in my purse after searching for a few minutes.</item>
+        <item>He finished his homework before dinner.</item>
+        <item>This dress doesn’t fit me anymore.</item>
+        <item>Internet company could not fix the issue in time</item>
+        <item>To escape the fighting he fled from his village</item>
+        <item>The tree floated downstream - upstream</item>
+        <item>The bird flies high in the sky.</item>
+        <item>She folds her clothes before putting them in a drawer.</item>
+        <item>The dog follows his owner everywhere.</item>
+        <item>The sign forbids smoking in the park.</item>
+        <item>You can not force people to listen to you if you keep yelling </item>
+        <item>I always forget my passwords.</item>
+        <item>She forgave him for his mistake.</item>
+        <item>I forgot my password and ca not access my phone</item>
+        <item>The school aims to foster a love of learning in its students</item>
+        <item>They were freed from jail</item>
+        <item>If you stay outside you will freeze to death</item>
+        <item>The water freezes in winter.</item>
+        <item>I did not mean to Sorry i did not mean to frighten you</item>
+        <item>He fries the eggs for breakfast.</item>
+        <item>Were you able to fulfill your ambition to visit new york</item>
+        <item>He gained a lot of weight over the past year</item>
+        <item>Let’s gather some wood for the fire.</item>
+        <item>The child gazed at his music teacher in amazement</item>
+        <item>The wind turbines generate electricity.</item>
+        <item>He gave me a present for my birthday.</item>
+        <item>He glanced at his watch and hurried off.</item>
+        <item>The diamonds on her necklace glittered.</item>
+        <item>We need to go to the store.</item>
+        <item>I tried to google his name but could not find any information</item>
+        <item>She grabbed her keys and ran out the door.</item>
+        <item>The teacher forgot to grade the exams</item>
+        <item>She grasped the doorknob and opened it.</item>
+        <item>She greeted me with a warm smile.</item>
+        <item>He groaned when he realized his mistake.</item>
+        <item>The flowers in the garden are growing.</item>
+        <item>There are some soldiers regarding the gate</item>
+        <item>I can only guess what he meant.</item>
+        <item>The teacher will guide the students through the difficult project.</item>
+        <item>I had worked on the campaign for clean water before working for the National Parks Service.</item>
+        <item>the lawyer was able to handle the case properly</item>
+        <item>He decided to hang the picture on the wall.</item>
+        <item>It did not happen as he had planned.</item>
+        <item>I did not mean to cause him any harm</item>
+        <item>She has wandered off before.</item>
+        <item>Eggs need to be put in a warm place to hatch</item>
+        <item>She hated the taste of the medicine.</item>
+        <item>I have two cats as pets.</item>
+        <item>wounds take time to heal</item>
+        <item>I can hear the birds chirping outside.</item>
+        <item>I need help cleaning the house</item>
+        <item>She hesitated before answering the question.</item>
+        <item>They hid the money in the house</item>
+        <item>He tried to hide the gift from his sister.</item>
+        <item>The boxer hit his opponent with a left hook.</item>
+        <item>She held the baby tightly in her arms.</item>
+        <item>The frog hopped across the lily pad.</item>
+        <item>He hoped to win the race.</item>
+        <item>Some dogs howl to get attention.</item>
+        <item>She hugged her friend after not seeing her for a long time.</item>
+        <item>You humiliated me in front of the whole school</item>
+        <item>In the fall they hunt deer and rabbits</item>
+        <item>We need to hurry if we want to catch the train.</item>
+        <item>He hurts his knee while playing soccer.</item>
+        <item>Can you identify the person in this photo?</item>
+        <item>the fire was ignited by sparks anarchy</item>
+        <item>Stop ignoring my question</item>
+        <item>He chose to ignore the warning signs.</item>
+        <item>She illustrated her point with a diagram.</item>
+        <item>Can you imagine what it would be like to live on Mars?</item>
+        <item>His tone implied that he was not happy with the decision.</item>
+        <item>impose joffrey the new schools principle</item>
+        <item>Her confidence and intelligence really impressed me.</item>
+        <item>We need to improve our customer service.</item>
+        <item>The package should include all necessary documents.</item>
+        <item>We decided to incorporate her ideas into the project.</item>
+        <item>The sign indicated that the restaurant was closed.</item>
+        <item>She informed me that the meeting had been rescheduled.</item>
+        <item>He insisted that we go to the concert together.</item>
+        <item>Her story inspired others to pursue their dreams</item>
+        <item>We need to install new software on our computers.</item>
+        <item>I intend to travel around the world one day.</item>
+        <item>Let me introduce you to my colleague, Sarah.</item>
+        <item>He decided to invest in the stock market.</item>
+        <item>The police are investigating the robbery.</item>
+        <item>The project will involve a lot of research.</item>
+        <item>She needs to iron her dress before the party.</item>
+        <item>Do not irritate your siblings.</item>
+        <item>Mom is excited about our family trip this summer.</item>
+        <item>I like to jog in the park every morning.</item>
+        <item>He joined the army after college.</item>
+        <item>You should not joke about sensitive topics.</item>
+        <item>She judged the competition fairly.</item>
+        <item>She can juggle five balls at once.</item>
+        <item>The cat can jump over the fence easily.</item>
+        <item>He tried to justify his actions, but it was hard to believe him.</item>
+        <item>Can you keep this secret?</item>
+        <item>He kicked the ball towards the goal.</item>
+        <item>In writing, some people advise you to "kill your darlings."</item>
+        <item>She kissed him on the cheek.</item>
+        <item>The worshippers knelt down to pray.</item>
+        <item>She learned to knit a scarf for her sister.</item>
+        <item>I heard a knock on the door maybe it was the wind </item>
+        <item>Do you know where the nearest gas station is located?</item>
+        <item>She lacks the necessary qualifications for the job.</item>
+        <item>We all laughed at the funny joke.</item>
+        <item>She laid the book on the table.</item>
+        <item>He led the team to victory.</item>
+        <item>She leaned against the wall to catch her breath.</item>
+        <item>The athlete leapt over the hurdle.</item>
+        <item>She learned how to play the piano.</item>
+        <item>He left the party early.</item>
+        <item>Can you lend me a pen for a moment?</item>
+        <item>He lied on his resume and got caught.</item>
+        <item>She lay in bed all morning.</item>
+        <item>He lied to his boss about being sick.</item>
+        <item>He lifted the heavy box with ease.</item>
+        <item>She lit the candle with a match.</item>
+        <item>I like chocolate ice cream.</item>
+        <item>Please listen carefully to my instructions.</item>
+        <item>I live in the United States.</item>
+        <item>She looked out the window at the beautiful view.</item>
+        <item>He lost his wallet on the way to work.</item>
+        <item>She loves spending time with her family.</item>
+        <item>He maintained his car regularly.</item>
+        <item>She made a cake for the party.</item>
+        <item>He managed the team successfully.</item>
+        <item>It doesn’t matter what you wear.</item>
+        <item>You may leave the room now.</item>
+        <item>What does this symbol mean?</item>
+        <item>She measured the length of the room.</item>
+        <item>Let’s meet at the coffee shop.</item>
+        <item>The ice cream began to melt in the sun.</item>
+        <item>He mentioned his vacation plans.</item>
+        <item>I might go to the concert tonight.</item>
+        <item>Do you mind if I borrow your pen?</item>
+        <item>She missed the target with the arrow.</item>
+        <item>He mixed the ingredients for the cake.</item>
+        <item>The coach motivated his team to work harder and win</item>
+        <item>My family and I moved last year.</item>
+        <item>He mowed the lawn on Saturday morning.</item>
+        <item>You must wear a helmet while riding a bike.</item>
+        <item>My mom tends to nag me about cleaning my room every day.</item>
+        <item>She named her daughter after her grandmother.</item>
+        <item>The author narrated the story in the first person.</item>
+        <item>He navigated the ship through the storm.</item>
+        <item>The complex nature of the project necessitated more research.</item>
+        <item>I need a new jacket this winter.</item>
+        <item>The landlord neglected to repair the leaking roof.</item>
+        <item>The agent is negotiating the players contract.</item>
+        <item>The school notified the parents about the upcoming event.</item>
+        <item>The mother breastfed to nourish her baby.</item>
+        <item>She nudged him awake when the movie ended.</item>
+        <item>She nurtured her garden with water and fertilizer.</item>
+        <item>She observed the birds flying south.</item>
+        <item>He obtained a new job with a higher salary.</item>
+        <item>The accident occurred on the highway.</item>
+        <item>He offered me a ride to the airport.</item>
+        <item>She opened the door and welcomed me inside.</item>
+        <item>He operates a small business in the city.</item>
+        <item>The company optimized its marketing strategy</item>
+        <item>I ordered a pizza for dinner last night.</item>
+        <item>She organized a surprise birthday party for him.</item>
+        <item>You ought to be more careful when driving.</item>
+        <item>He overcame his fear of public speaking.</item>
+        <item>The car overtook the truck on the highway.</item>
+        <item>He owes me money for the rent.</item>
+        <item>She owns a beautiful house by the beach.</item>
+        <item>She painted her room pink.</item>
+        <item>He read the report carefully and parsed out all the relevant information.</item>
+        <item>He will participate in the chess tournament.</item>
+        <item>The team passed the ball to each other.</item>
+        <item>She paid for her coffee with cash.</item>
+        <item>He peeled the banana before eating it.</item>
+        <item>She performed a beautiful song on the piano.</item>
+        <item>The students performed a short play that they wrote.</item>
+        <item>Though the work is hard, you have to persist and get it done.</item>
+        <item>He persuaded her to go on a date with him.</item>
+        <item>She pinched her nose to stop the bad smell.</item>
+        <item>They planned their vacation to Hawaii.</item>
+        <item>They played basketball in the park.</item>
+        <item>She pointed to the north to show the direction.</item>
+        <item>He possessed a vast collection of books.</item>
+        <item>They postponed the meeting until next week.</item>
+        <item>She poured milk into her coffee.</item>
+        <item>She practiced the piano for hours every day.</item>
+        <item>He preferred tea over coffee.</item>
+        <item>She prepared a delicious meal for her guests.</item>
+        <item>She pretended to be a princess at the costume party.</item>
+        <item>They prevented the fire from spreading to other houses.</item>
+        <item>They proceeded with the construction of the building.</item>
+        <item>All projects progress towards completion</item>
+        <item>He promised to be on time for the meeting.</item>
+        <item>The company decided to promote its employees</item>
+        <item>She proposed a new project to her team.</item>
+        <item>He protected his family from the wild animals.</item>
+        <item>He proved his theory through scientific experiments.</item>
+        <item>They provided a solid alibi.</item>
+        <item>He pulled the door to open it.</item>
+        <item>He punched the bully in the face.</item>
+        <item>She pursued her dreams of becoming a doctor.</item>
+        <item>She pushed the shopping cart down the aisle.</item>
+        <item>He put the keys on the kitchen counter.</item>
+        <item>The duck quacked loudly.</item>
+        <item>The ground began to quake as the volcano erupted.</item>
+        <item>She qualified for the scholarship with her excellent grades.</item>
+        <item>The police were able to quell the riot.</item>
+        <item>He quested for the lost treasure for many years.</item>
+        <item>He quit his job after he won the lottery.</item>
+        <item>The shelter raises orphaned baby animals.</item>
+        <item>I reached under the couch for my missing sock.</item>
+        <item>She reacted angrily to the criticism.</item>
+        <item>I like to read books in my free time.</item>
+        <item>He realized he had made a mistake.</item>
+        <item>I cannot recall where I left my keys.</item>
+        <item>I received a gift from my friend.</item>
+        <item>I cannot recollect meeting him before.</item>
+        <item>I recommend this restaurant for dinner.</item>
+        <item>We need to reduce our expenses this month.</item>
+        <item>Can you refer me to a good lawyer?</item>
+        <item>She reflected on her past mistakes.</item>
+        <item>I refuse to work for such a low wage.</item>
+        <item>She regretted not going to college.</item>
+        <item>I can relate to your struggle with anxiety.</item>
+        <item>I like to relax by taking a long bath.</item>
+        <item>The medicine relieved his headache.</item>
+        <item>I rely on my best friend for emotional support.</item>
+        <item>Only a few guests remained at the party.</item>
+        <item>I remember our first date like it was yesterday.</item>
+        <item>Can you remind me to call my mom tonight?</item>
+        <item>The couple renewed their vows on their anniversary</item>
+        <item>I need to repair my car’s brakes.</item>
+        <item>I replaced my old phone with a new one.</item>
+        <item>Please report back promptly at 7pm.</item>
+        <item>The eagle represents freedom in America.</item>
+        <item>This job requires a lot of hard work.</item>
+        <item>She resented his constant criticism.</item>
+        <item>Rest your wifi if it does not work.</item>
+        <item>He resisted the temptation to eat the cake.</item>
+        <item>I retained ownership of the house after the divorce.</item>
+        <item>My dad plans to retire next year.</item>
+        <item>The family reveres their personal traditions around the holidays.</item>
+        <item>She rid herself of toxic friends.</item>
+        <item>I like to ride my bike to work when the weather is nice.</item>
+        <item>The phone rang loudly in the quiet</item>
+        <item>The sun rises in the east every morning.</item>
+        <item>She didn’t want to risk getting caught by the police.</item>
+        <item>The lions in the new movie look so real when they roar.</item>
+        <item>We are going to roast marshmallows over the fire.</item>
+        <item>She likes to run every morning to stay fit.</item>
+        <item>The government will sanction the new law.</item>
+        <item>The delicious meal satisfied our hunger.</item>
+        <item>She said that she loved him.</item>
+        <item>He scrubbed the floors until they sparkled.</item>
+        <item>I can see the mountains in the distance.</item>
+        <item>It seems that she is not feeling well.</item>
+        <item>She sells handmade jewelry at the market.</item>
+        <item>He will send the package tomorrow.</item>
+        <item>The waiter will serve our dinner soon.</item>
+        <item>She set the table for dinner.</item>
+        <item>They settled their argument peacefully.</item>
+        <item>She will sew a patch onto her jacket.</item>
+        <item>He shook his head in disbelief.</item>
+        <item>We shall meet at the park at noon.</item>
+        <item>Shaming people online is a common occurrence these days.</item>
+        <item>The tree shed its leaves in the fall.</item>
+        <item>The sun shone brightly in the sky.</item>
+        <item>The kids shocked their parents with elaborate gifts.</item>
+        <item>He will shoot a movie in Paris next month.</item>
+        <item>You should study harder for the exam.</item>
+        <item>He will show his new painting at the gallery.</item>
+        <item>Showering after a long day feels great.</item>
+        <item>The sweater shrank in the wash.</item>
+        <item>She shut the window to keep out the cold.</item>
+        <item>They will sing a song together.</item>
+        <item>The boat sank in the stormy sea.</item>
+        <item>She will sit on the couch to watch TV.</item>
+        <item>He loves to ski in the mountains.</item>
+        <item>She will sleep soundly through the night.</item>
+        <item>He will slice the bread for sandwiches.</item>
+        <item>She will slide down the hill on her sled.</item>
+        <item>She slipped on the icy sidewalk.</item>
+        <item>The roses smell sweet.</item>
+        <item>He will snore loudly when he is tired.</item>
+        <item>The girl wanted a stuffed bear to snuggle with.</item>
+        <item>She will solve the math equation correctly.</item>
+        <item>Your cello sounds magnificent.</item>
+        <item>He will sow wildflowers in the field.</item>
+        <item>She will speak at the conference next week.</item>
+        <item>Please specify the color and size you want.</item>
+        <item>She will spell her name for the teacher.</item>
+        <item>They will spend their vacation at the beach.</item>
+        <item>She accidentally spilled coffee on her shirt.</item>
+        <item>He will spit out his gum before the exam.</item>
+        <item>She will spread butter on her toast.</item>
+        <item>He will squat down to tie his shoelaces.</item>
+        <item>She will stack the books neatly on the shelf.</item>
+        <item>She will stand in line for tickets to the show.</item>
+        <item>He will start his new job next week.</item>
+        <item>The baseball player stayed calm in a 3-2 count.</item>
+        <item>She will steal a glance at her crush.</item>
+        <item>She will stick the poster on the wall.</item>
+        <item>The bee can sting you if you get too close.</item>
+        <item>The garbage in the dumpster stinks.</item>
+        <item>She will stir the soup on the stove.</item>
+        <item>She will stop at the red light.</item>
+        <item>She will stretch her legs before going for a run.</item>
+        <item>She will strike the nail with a hammer.</item>
+        <item>She will struggle to lift the heavy box.</item>
+        <item>She will study for her history exam.</item>
+        <item>She will submit her proposal to the committee.</item>
+        <item>She will succeed in her new job.</item>
+        <item>She will suffer from a headache.</item>
+        <item>She will suggest a new restaurant for you</item>
+        <item>She will supply the office with new computers.</item>
+        <item>The charity supports local causes and organizations</item>
+        <item>He will suppose that she’s running late.</item>
+        <item>She will surprise her friend with a birthday gift.</item>
+        <item>He will survive the car accident.</item>
+        <item>She will swear to tell the truth in court.</item>
+        <item>She will sweep the floor before guests arrive.</item>
+        <item>She will swell with pride when she receives the award.</item>
+        <item>She will swim in the pool.</item>
+        <item>She will swing on the playground.</item>
+        <item>Can you take this book to the library?</item>
+        <item>Let’s talk about our plans for the weekend.</item>
+        <item>This soup tastes too salty.</item>
+        <item>My mom used to teach me how to cook.</item>
+        <item>She accidentally tore her shirt sleeve.</item>
+        <item>Please tell me what happened last night.</item>
+        <item>She tends to her garden every morning.</item>
+        <item>I need to think about what you said.</item>
+        <item>He threatened to call the police on me.</item>
+        <item>The plants thrived in the sunny and humid weather</item>
+        <item>He can throw a football really far.</item>
+        <item>She tiptoed out of the room to avoid waking anyone up.</item>
+        <item>I can’t tolerate spicy food.</item>
+        <item>The company transformed its image with a new logo</item>
+        <item>He can translate French into English.</item>
+        <item>I trapped the spider in a cup and took it outside.</item>
+        <item>I’m going to try this new recipe tonight.</item>
+        <item>Her fingers turned blue after being out in the cold for so long.</item>
+        <item>I can’t understand what you’re saying.</item>
+        <item>He undertook the project despite the challenges.</item>
+        <item>She unfolded the map to find the route to the airport.</item>
+        <item>The two companies decided to unite for a joint venture.</item>
+        <item>She upgraded her phone to the latest model.</item>
+        <item>The bad news upset him for the rest of the day.</item>
+        <item>I urge you to reconsider your decision.</item>
+        <item>He used his computer to write a report.</item>
+        <item>The supervisor will validate the test results.</item>
+        <item>I am glad I go to a school that values extracurriculars.</item>
+        <item>The magician made the rabbit vanish from the hat.</item>
+        <item>Please verify your email address to complete the sign-up process.</item>
+        <item>The constant noise from the construction site vexed me.</item>
+        <item>The artist’s paintings were viewed by many people at the exhibit.</item>
+        <item>We plan to visit our relatives in Florida this summer.</item>
+        <item>She tried to visualize the beach as she closed her eyes.</item>
+        <item>The fresh air and exercise helped to vitalize my body.</item>
+        <item>The baby began to vocalize and make cooing sounds.</item>
+        <item>She volunteered to help organize the fundraiser.</item>
+        <item>I have to wait for the bus.</item>
+        <item>I usually wake up at 7am.</item>
+        <item>Let’s walk to the park.</item>
+        <item>I want a new phone.</item>
+        <item>She warmed up by the fire after playing outside in the snow.</item>
+        <item>The weather forecast warned of a storm.</item>
+        <item>She was so happy to finally see the show on broadway.</item>
+        <item>I need to wash my car.</item>
+        <item>Let’s watch a movie tonight.</item>
+        <item>He waved goodbye to me.</item>
+        <item>I like to wear comfortable clothes.</item>
+        <item>She wept after watching the emotional movie.</item>
+        <item>I need to weigh this package before shipping it.</item>
+        <item>They were disappointed that we had to leave early.</item>
+        <item>The chef whipped the cream for the dessert.</item>
+        <item>I will study harder for my exams.</item>
+        <item>Our team won the championship game.</item>
+        <item>I wish I could travel the world.</item>
+        <item>I would go if I had more time.</item>
+        <item>I need to write a report for work.</item>
+        <item>I need to Xerox this document before I send it out.</item>
+        <item>The doctor X-rayed my broken arm to see the extent of the damage.</item>
+        <item>She yearns to travel the world.</item>
+        <item>The coach yelled at the players to run faster.</item>
+        <item>The farm yielded a bountiful harvest this year.</item>
+        <item>Can you please zap the leftovers for me?</item>
+        <item>The scale needs to be zeroed before weighing anything.</item>
+        <item>The snake zigzagged across the path.</item>
+        <item>The city is zoned into residential and commercial areas.</item>
+        <item>The race car zoomed down the track.</item>
+    </string-array>
+</resources>
